@@ -603,3 +603,6 @@
 .my-float{
 	margin-top:16px;
 }
+.wp-btn:hover {
+	color:green;
+}	
